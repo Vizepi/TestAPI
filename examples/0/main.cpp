@@ -6,7 +6,7 @@
 // And then include the Test.hpp file
 #include "../../include/TestAPI.hpp"
 
-// Declare your test configuration by enabling or diabling tests
+// Declare your test configuration by enabling or disabling tests
 #define DO_ADD_TESTS
 //#define DO_SUB_TESTS
 //#define DO_MUL_TESTS
